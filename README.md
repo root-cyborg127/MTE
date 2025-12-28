@@ -1,5 +1,12 @@
-# Mumbai Tech Engineers – Gmail Template Assistant
+<p align="center">
+  <img src="MTE MailExtension/logo.png" alt="Mumbai Tech Engineers Logo" width="390">
+</p>
 
+<h1 align="center">Mumbai Tech Engineers</h1>
+
+<p align="center">
+  Gmail Template Assistant for Export, Service & Engineering Communication
+</p>
 This project is a lightweight Chrome extension built to simplify how we send professional emails from Gmail.
 
 It allows you to create, manage, and insert **clean, branded HTML email templates directly inside Gmail**, without switching tools, copying code, or rewriting the same emails again and again.
