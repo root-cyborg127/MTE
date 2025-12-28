@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Mumbai Tech Engineers – Gmail Templates",
+  "version": "1.3",
+  "description": "Professional Gmail templates for Mumbai Tech Engineers",
+  "content_scripts": [
+    {
+      "matches": ["https://mail.google.com/*"],
+      "js": ["mumbaitech_gmail.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["logo.png"],
+      "matches": ["https://mail.google.com/*"]
+    }
+  ]
+}
